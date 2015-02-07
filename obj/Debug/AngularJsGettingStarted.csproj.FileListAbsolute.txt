@@ -1,0 +1,5 @@
+C:\Users\gervais\Documents\Pluralsight\AngularJs\angularjs-get-started\AngularJsGettingStarted\AngularJsGettingStarted\bin\AngularJsGettingStarted.dll
+C:\Users\gervais\Documents\Pluralsight\AngularJs\angularjs-get-started\AngularJsGettingStarted\AngularJsGettingStarted\bin\AngularJsGettingStarted.pdb
+C:\Users\gervais\Documents\Pluralsight\AngularJs\angularjs-get-started\AngularJsGettingStarted\AngularJsGettingStarted\obj\Debug\AngularJsGettingStarted.csprojResolveAssemblyReference.cache
+C:\Users\gervais\Documents\Pluralsight\AngularJs\angularjs-get-started\AngularJsGettingStarted\AngularJsGettingStarted\obj\Debug\AngularJsGettingStarted.dll
+C:\Users\gervais\Documents\Pluralsight\AngularJs\angularjs-get-started\AngularJsGettingStarted\AngularJsGettingStarted\obj\Debug\AngularJsGettingStarted.pdb
