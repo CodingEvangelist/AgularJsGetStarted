@@ -9,6 +9,7 @@
     var task1 = function() {
       workCount += 1;
       console.log("task1 " + workCount);
+
     };
 
     var task2 = function() {
